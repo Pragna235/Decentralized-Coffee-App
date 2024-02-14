@@ -53,6 +53,13 @@ User visits the dAPP, pays for his/her coffee in ethers and writes a review in o
 - Note the `Deployed Contract Address`
 - Search this `Deployed Contract Address` in the search bar of `sepolia testnet explorer` to view the just happened transaction details
 
+- Paste the copied `Contract Address` in the `App.jsx` file
+- Create a nwe folder under `src` say `contractJson`
+- Copy the `coffee.json` file from artifacts to this new folder
+- Make necessary changes in the `App.jsx` file
+
+-           In Progress
+
 
 
   
