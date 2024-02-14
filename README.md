@@ -46,10 +46,10 @@ User visits the dAPP, pays for his/her coffee in ethers and writes a review in o
 - Create a new app on `Ethereum` Blockchain and `Sepolia` testnet
 - Note your `HTTPS url`. (SEPOLIA_URL)
 - Get the `private key` of an account on your metamask extension
+- Navigate to the Project Folder `cd ..`
 -     npm install dotenv
 - Add another file in the project named `.env`
 - Edit the `hardhat.config.js`  and `.env` files
-- Navigate to the Project Folder `cd ..`
 -     npx hardhat run --network sepolia scripts/deploy.js
 - Make sure, the account you're using has minimum ethers
 - Note the `Deployed Contract Address`
