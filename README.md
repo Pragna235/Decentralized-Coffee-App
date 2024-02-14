@@ -26,7 +26,8 @@ User visits the dAPP, pays for his/her coffee in ethers and writes a review in o
 - This will generate the `artifacts` folder which contain the `abi` and `bytecode` in the `coffee.json` file of the compiled contract
 - ### Tip :
   - Use `waitForDeployment()` instead of `deployed()` function
-  - Use `coffee.target` instead of `coffee.address` while obtaining the smart contract address after deploying
+  - Use `coffee.target` instead of `coffee.address` while obtaining the smart contract address after compiling
+  -     npx hardhat run scripts/deploy.js
 - (If any more errors occur, check the dependencies of the `package.json` file)
 
 -------------------------------------------------------------Frontend----------------------------------------------------------------------------------
