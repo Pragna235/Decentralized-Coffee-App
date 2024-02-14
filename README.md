@@ -22,7 +22,7 @@ User visits the dAPP, pays for his/her coffee in ethers and writes a review in o
 - Delete the `test` folder
 
 - Deploy the hardhat contract using the following commands
-- `npx hardhat compile`
+-     npx hardhat compile
 - This will generate the `artifacts` folder which contain the `abi` and `bytecode` in the `coffee.json` file of the compiled contract
 - ### Tip :
   - Use `waitForDeployment()` instead of `deployed()` function
