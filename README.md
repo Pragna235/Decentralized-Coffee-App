@@ -3,6 +3,7 @@
 Test the Project with your Metamask account
 
 <h3>Live Project</h3> - https://coffeeshop235.netlify.app/
+<h3>Project Files</h3> - https://github.com/Pragna235/Decentralized-Coffee-App/tree/master
 
 ## Technologies Used
 * Solidity - Backend
