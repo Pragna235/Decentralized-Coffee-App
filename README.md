@@ -59,8 +59,15 @@ User visits the dAPP, pays for his/her coffee in ethers and writes a review in o
 - Create a new folder under `src` say `contractJson`
 - Copy the `coffee.json` file from artifacts to this new folder
 - Make necessary changes in the `App.jsx` file
+- If you encounter `TypeError: Cannot read properties of undefined (reading 'Web3Provider')` in a Sample run and test, try:
+-     npm uninstall ethers
+-     npm i -S ethers@5.7.2
+- This should fix the problem (reinstall node_modules is necessary)
 
-- In Progress........
+- Create a new folder `Components` in src
+- Inside Components, create 2 more files say `Buy.jsx` and `Memos.jsx`
+- Write code in them and keep making necessary changes in `App.jsx` and other files as needed
+- Do sample runs and tests. Your Decentralized Coffee App is ready!
 
 
 
