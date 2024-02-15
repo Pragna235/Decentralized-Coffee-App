@@ -5,7 +5,7 @@ contract coffee{
     struct Memo{
         string name;
         string message;
-        uint timestaml;
+        uint timestamp;
         address from;
     }
 
