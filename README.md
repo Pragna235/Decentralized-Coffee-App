@@ -1,5 +1,7 @@
 # Decentralized-Coffee-App (A Blockchain Implementation)
 
+<h3>Live Project</h3> - https://coffeeshop235.netlify.app/
+
 ## Technologies Used
 * Solidity - Backend
 * Ether.js - ( Communication between Frontend and Backend)
@@ -34,7 +36,7 @@ User visits the dAPP, pays for his/her coffee in ethers and writes a review in o
 -     npm create vite@latest
 - Framework : React
 - Variant : JavaScript
-- Rename your react project folder to say `client`
+- Rename your react project folder to say `clients`
 -     cd client
 -     npm install
 -     npm run dev
@@ -73,7 +75,13 @@ User visits the dAPP, pays for his/her coffee in ethers and writes a review in o
 In Progress....
 
 ## Deploy your dApp on netlify.com
-In Progress....
 
+- Navigate to your react folder `clients` in the terminal
+-     npm run build
+- A `dist` folder will be created in the `clients` folder
+- Go to `app.netlify.com` and selets `Add New Site` and `Deploy Manually`
+- Upload the `dist` folder manually
+- Edit sitename if needed.
+- Your site is deployed!
 
   
