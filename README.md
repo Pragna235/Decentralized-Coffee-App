@@ -1,5 +1,7 @@
 # Decentralized-Coffee-App (A Blockchain Implementation)
 
+Test the Project with your Metamask account
+
 <h3>Live Project</h3> - https://coffeeshop235.netlify.app/
 
 ## Technologies Used
