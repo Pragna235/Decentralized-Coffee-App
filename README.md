@@ -69,6 +69,11 @@ User visits the dAPP, pays for his/her coffee in ethers and writes a review in o
 - Write code in them and keep making necessary changes in `App.jsx` and other files as needed
 - Do sample runs and tests. Your Decentralized Coffee App is ready!
 
+`Invalid Date Error?`
+In Progress....
+
+## Deploy your dApp on netlify.com
+In Progress....
 
 
   
